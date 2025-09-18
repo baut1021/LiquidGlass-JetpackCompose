@@ -1,0 +1,1 @@
+https://www.linkedin.com/posts/ardakazanci_jetpackcompose-androiddevelopment-androidprogramming-activity-7374464292516945920-jHLU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2vx2QBVowkGS1YKnq1EhEAH-eJwQf_4T8
